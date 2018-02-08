@@ -48,6 +48,7 @@ Algorithm Selection -Choose the best, most appropriate algorithms without wastin
 
 Model Training-Finally, train your models
 
+http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
 
 
 https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn
