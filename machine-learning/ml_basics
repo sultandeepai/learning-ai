@@ -60,3 +60,12 @@ https://elitedatascience.com/overfitting-in-machine-learning
 imbalanced
 https://elitedatascience.com/imbalanced-classes
 api
+
+
+FAQ's
+
+How will you differentiate between feed-forward neural networks as opposed to recursive neural networks?
+Selecting which neurons to connect to which other neurons in the next layer in a neural network is important. What will be the effect of allowing maximal connectivity?
+Demonstrate with an example, how, by engineering a clever training set, you can make your neural net a lot more effective?
+Let’s say we want to minimize the squared error over all of the training examples that we encounter. we have a bunch of variables (weights) and we have a set of equations (one for each training example)? Can we just solve this problem by setting up a system of linear system of equations? What’s the flaw in this approach?
+Why linear neurons are not used much in practice?
